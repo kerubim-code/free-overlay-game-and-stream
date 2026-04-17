@@ -47,7 +47,7 @@
 
 ### Build
 ```bash
-git clone https://github.com/TON_USER/OverlayApp.git
+git clone https://github.com/kerubim-code/free-overlay-game-and-stream.git
 cd OverlayApp
 cmake -B build -S .
 cmake --build build
