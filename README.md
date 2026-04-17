@@ -3,8 +3,16 @@
 **OverlayApp** est un outil Windows léger développé en **C++ / Qt6** permettant de superposer des images et des GIFs animés par-dessus n'importe quelle application — jeux, streams, présentations — avec un contrôle total sur la position, la taille et l'opacité de chaque élément.
 
 ---
+# how to use 
+## 1) extract the zip w 7zip
+## 2) start the .exe 
+## 3) enjoy
+## discord for any help : ke8u
+## or
+## https://discord.gg/kBbzb6QYPp
 
-## ✨ Fonctionnalités
+
+# ✨ Fonctionnalités
 
 - 🖼 **Import d'images** — PNG, JPG, BMP, WEBP, affichées à leur taille originale
 - 🎞 **Import de GIFs animés** — lecture en boucle en temps réel
