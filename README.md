@@ -23,7 +23,6 @@
 - 🎯 **Positionnement rapide** — plein écran, centrer, coins haut-gauche / haut-droite / bas-gauche / bas-droite
 - 💾 **Configurations nommées** — sauvegarde et charge plusieurs configs JSON dans le dossier Documents
 - 🗂 **Icône dans le tray** — l'app tourne en arrière-plan, accessible depuis la barre des tâches
-- 📐 **Résolutions multiples** — 1280×720, 1440×1080, 1920×1080, 2560×1440
 
 ---
 
